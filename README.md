@@ -1,7 +1,7 @@
 # MRTracer2d
- :rainbow: Ray Tracer in 2D by C++
+ :rainbow: Draw a light in 2D by C++
 
-Miawu's Ray Tracer in 2D.
+Miawu's Light in 2D.
 
 ![](./out.jpg)
 
