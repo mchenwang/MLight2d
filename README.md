@@ -14,11 +14,11 @@ Miawu's Ray Tracer in 2D.
 - Win10 + MinGW
 
 ```sh
-git clone https://github.com/miawua/MRTracer2d.git
-cd MRTracer2d
+git clone https://github.com/miawua/MLight2d.git
+cd MLight2d
 mkdir build
 cd build
 cmake -G "MinGW Makefiles" ..
-mingw32-make && raytracer2d.exe && start out.ppm
+mingw32-make && light2d.exe && start out.ppm
 ```
 
